@@ -1,4 +1,4 @@
-# Heart Disease Classification using Advanced Machine Learning (Stacking & OOF)
+# Heart Disease Prediction using Advanced Machine Learning (Stacking & OOF)
 
 ## Overview
 
